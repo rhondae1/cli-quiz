@@ -1,6 +1,7 @@
 body {
   font-style: arial;
   max-width: 65%;
+  float: left;
 }
 
 .poem {
@@ -11,7 +12,9 @@ body {
   background-color: yellow;
 }
 
-#sidebar {
-  max-width: 35%;
+.sidebar {
+  max-width: 30%;
   border-color: 5px black solid;
+  float: right;
+  margin-left: 25px;
 }
