@@ -1,0 +1,17 @@
+body {
+  font-style: arial;
+  max-width: 65%;
+}
+
+.poem {
+  font-style: tahoma;
+}
+
+.mom {
+  background-color: yellow;
+}
+
+#sidebar {
+  max-width: 30%;
+  border-color: 5px black solid;
+}
